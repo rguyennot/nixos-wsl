@@ -6,7 +6,7 @@
 
   # User information
   vcs_user = "Rudy GUYENNOT";
-  vcs_email = "rudy.guyennot@eolas.fr";
+  vcs_email = "r.guyennot@gmail.com";
 
   # SSH identity files
   # git_ssh_identity_file = "~/.ssh/id_github";
