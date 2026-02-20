@@ -80,5 +80,6 @@ Done. The new configuration is /nix/store/kbjfrshrsj3qvcimvbvzs00q8lwlakn8-nixos
 
 - Revoir la gestion des secrets via SOPS/AGE : s'inspirer de https://github.com/kenlasko/nixos-wsl?tab=readme-ov-file#configuring-sops
 - Gestion des clés SSH
+- Créer une CI pour builder automatiquement des nouvelles releases au format tarball ou .wsl
 
 
