@@ -71,6 +71,11 @@ Done. The new configuration is /nix/store/kbjfrshrsj3qvcimvbvzs00q8lwlakn8-nixos
  - https://github.com/abhishekbhar/nixconf
  - https://github.com/AlexNabokikh/nix-config
 
+# 📖 Bibles NixOS
+
+ - Search NixOS Packages : https://search.nixos.org/packages?channel=25.11
+ - Doc NixOS-WSL : https://nix-community.github.io/NixOS-WSL/install.html
+
 # ToDo
 
 - Revoir la gestion des secrets via SOPS/AGE : s'inspirer de https://github.com/kenlasko/nixos-wsl?tab=readme-ov-file#configuring-sops
