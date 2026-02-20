@@ -36,7 +36,7 @@ Il faut d'abord déployer [nixos.wsl](https://github.com/nix-community/NixOS-WSL
 nix --extra-experimental-features "nix-command flakes" shell nixpkgs#git
 
 # clone du projet dans le répertoire courant
-git clone https://gitlab.hxd-services.fr/eolas-ndc/socle/socle-technique/infra/nixos-wsl.git
+git clone https://github.com/rguyennot/nixos-wsl.git
 
 cd nixos-wsl/
 
