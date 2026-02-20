@@ -4,7 +4,8 @@ Ce repo permet de builder une distribution **NixOS-WSL** prête à l’emploi da
 
 # Avantages ?
 
-Avoir un OS immuable et prêt à l'emploi sans aucun setup manuel ! Toute la configuration est faite en mode **déclaratif** et **versionnée** dans Git.  
+Avoir un OS immuable et prêt à l'emploi sans aucun setup manuel !  
+Toute la configuration est faite en mode **déclaratif** et **versionnée** dans Git.  
 Idéal pour avoir un environnement de développement à partager dans les équipes.
 
 # ✨ Prérequis
@@ -72,7 +73,7 @@ Done. The new configuration is /nix/store/kbjfrshrsj3qvcimvbvzs00q8lwlakn8-nixos
 
 # ToDo
 
-- Revoir la gestion des secrets via SOPS/AGE (_non fonctionnelle actuellement_) : s'inspirer de https://github.com/kenlasko/nixos-wsl?tab=readme-ov-file#configuring-sops
+- Revoir la gestion des secrets via SOPS/AGE : s'inspirer de https://github.com/kenlasko/nixos-wsl?tab=readme-ov-file#configuring-sops
 - Gestion des clés SSH
 
 
